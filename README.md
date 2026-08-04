@@ -2,7 +2,7 @@
 
 ## Overview
 
-A mechanical design study of a quadruped ("robot dog") robot, modeled and assembled in Onshape.
+A mechanical design study of a quadruped robot ("robot dog"), modeled and assembled in Onshape.
 
 ## Tools used
 
